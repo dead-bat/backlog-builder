@@ -11,7 +11,3 @@ def import_source_data(sourceFile):
 
 # DATE CALCULATION FUNCTIONS
 # calculate working days between two dates
-
-
-# CONFIG FILE FUNCTIONS
-# check for and build config file

@@ -10,9 +10,9 @@ Backlog Builder evolved out of a standalone project the author built as an autom
 
 ## Required Source Data
 
-Project data can be entered directly into the application if you want to check a project's backlog data in real time. 
+Currently, the program only supports importing data from Excel. The goal is to eliminate this limitation and allow data import from most common file types. Users should also be able to manually enter data to calculate rolloff for a single project on-the-fly.
 
-For report generation, you can import data from a variety of sources: CSV files, XLSX files, SQL databases, and JSON files are all suitable for getting your project data into the program. Regardless of the data source, the imported data will be converted and stored in JSON format. This makes the data easily accessible to the calculator program (written and Python) and the report display app (written in JavaScript) in a universal format.
+For report generation, you will be able to import data from a variety of sources: CSV files, XLSX files, SQL databases, and JSON files are all suitable for getting your project data into the program. Regardless of the data source, the imported data will be converted and stored in JSON format. This makes the data easily accessible to the calculator program (written and Python) and the report display app (written in JavaScript) in a universal format.
 
 ## Integration with Existing Tools
 
