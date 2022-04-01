@@ -1,3 +1,6 @@
+> **PROPRIETARY AUTOMATION**  
+> This automation was designed for a specific client, to meet specific needs, and is not universally applicable to building a backlog. It is included, here, simply as a sample of work in my 'portfolio'. You're welcome to grab the repo and tinker with it, but it won't be of much use to anybody outside of the original client without heavy modification. It may very well be worth using as a source to harvest ideas from, but do yourself a favor and build your own backlog builder. Trying to use this one out-of-the-box will only create a massive headache for you.
+
 # BACKLOG BUILDER
 
 Backlog Builder is a simple solution for producing a backlog report for organizations of all sizes. The solution is designed to be an addition to an organization's project management toolbox that can produce a backlog report which is:
